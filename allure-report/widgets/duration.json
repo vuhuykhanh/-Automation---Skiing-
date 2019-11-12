@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f00072bceaa1bb48",
+  "name" : "verify that can search the destination",
+  "time" : {
+    "start" : 1573111662128,
+    "stop" : 1573111667838,
+    "duration" : 5710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

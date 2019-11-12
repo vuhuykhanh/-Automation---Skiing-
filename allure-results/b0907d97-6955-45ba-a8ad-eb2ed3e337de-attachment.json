@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@data-target='countries-resorts']//div[@class='search-level-2']//ul[@class='options-level-2 selected']//li//a[contains(text(),\"Alpe d'Huez\")]"
+}

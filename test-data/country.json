@@ -1,0 +1,34 @@
+{
+    "Austria": [
+        "All Resorts in Austria",
+        "Ischgl",
+        "Obergurgl",
+        "St. Anton"
+    ],
+    "France": [
+        "All Resorts in France",
+        "Alpe d'Huez",
+        "Avoriaz",
+        "Courchevel",
+        "Les Arcs",
+        "Meribel",
+        "Tignes",
+        "Val d'Isère",
+        "Val Thorens"
+    ],
+    "Italy": [
+        "All Resorts in Italy",
+        "Champoluc",
+        "Selva"
+    ],
+    "Canada": [
+        "All Resorts in Canada",
+        "Banff",
+        "Fernie",
+        "Jasper",
+        "Kimberley",
+        "Lake Louise",
+        "Mont Tremblant",
+        "Whistler"
+    ]
+}

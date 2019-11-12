@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Searching destination",
+    "children" : [ {
+      "name" : "verify that can search the destination",
+      "uid" : "f00072bceaa1bb48",
+      "parentUid" : "f444d0ea26e3032d8b050838ef53389b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573111662128,
+        "stop" : 1573111667838,
+        "duration" : 5710
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "f444d0ea26e3032d8b050838ef53389b"
+  } ]
+}

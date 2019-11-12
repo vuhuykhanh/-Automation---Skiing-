@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@id='deal-search-results']//div[@class='main_title']"
+}

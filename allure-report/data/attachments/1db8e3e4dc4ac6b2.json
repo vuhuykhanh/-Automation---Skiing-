@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@data-target='countries-resorts']//div[@class='search-level-1']//ul//li//a[contains(text(),'Canadal')]\"}\n  (Session info: chrome=78.0.3904.87)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00A2EB13+1501971]\n\tOrdinal0 [0x009AF6D1+980689]\n\tOrdinal0 [0x0093765F+489055]\n\tOrdinal0 [0x008D7152+94546]\n\tOrdinal0 [0x008F0E00+200192]\n\tOrdinal0 [0x008E7A80+162432]\n\tOrdinal0 [0x008EF93E+194878]\n\tOrdinal0 [0x008E78EB+162027]\n\tOrdinal0 [0x008D0AC7+68295]\n\tOrdinal0 [0x008D1B40+72512]\n\tOrdinal0 [0x008D1AD9+72409]\n\tOrdinal0 [0x009C8F37+1085239]\n\tGetHandleVerifier [0x00ACD7ED+503293]\n\tGetHandleVerifier [0x00ACD580+502672]\n\tGetHandleVerifier [0x00AD46AC+531644]\n\tGetHandleVerifier [0x00ACDFFA+505354]\n\tOrdinal0 [0x009C0606+1050118]\n\tOrdinal0 [0x009C047F+1049727]\n\tOrdinal0 [0x009CAF9B+1093531]\n\tOrdinal0 [0x009CB103+1093891]\n\tOrdinal0 [0x009CA095+1089685]\n\tBaseThreadInitThunk [0x75FD6359+25]\n\tRtlGetAppContainerNamedObjectPath [0x771F7A94+228]\n\tRtlGetAppContainerNamedObjectPath [0x771F7A64+180]\n"
+}
