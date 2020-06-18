@@ -10,8 +10,9 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-    - run: npm init
-    - run: npm install
-    - run: npm test
+       - uses: actions/checkout@v1
+       - uses: actions/setup-node@v1
+     - name: Install and test
+     run: npm init
+     run: npm install
+     run: npm test
