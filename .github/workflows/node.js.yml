@@ -12,5 +12,6 @@ jobs:
     steps:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
-    - run: npm i
+    - run: npm init
+    - run: npm install
     - run: npm test
